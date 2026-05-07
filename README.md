@@ -1,4 +1,12 @@
-# Steven Tapscott
+<h1 align="center">Hi, I'm YOUR_NAME_HERE</h1>
+<h2 align="center">Data Analysis | Data Science </h2>
+
+---
+
+
+<div align="center">
+<a href="https://github.com/StevenTapscott"><h2>View My Portfolio</h2></a>
+</div>
 
 Aspiring for a career in Data, specialising in SQL, Python, Power BI, Tableau, Excel and data visualisation.
 
@@ -51,6 +59,9 @@ Aspiring for a career in Data, specialising in SQL, Python, Power BI, Tableau, E
 - Tableau Public: ADD LINK
 - Kaggle: (https://www.kaggle.com/steventapscott) 
 - Credly: (https://www.credly.com/users/steven-tapscott)
+
+<p align="center"><strong>Thanks for visiting!</strong></p>
+
 <!--
 **StevenTapscott/StevenTapscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
