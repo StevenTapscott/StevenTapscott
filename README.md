@@ -39,7 +39,7 @@ Aspiring for a career in Data, specialising in SQL, Python, Power BI, Tableau, E
 
 ## 📜 Certifications
 
-- CompTIA Data+ DA
+- CompTIA Data+ DA0-002
 - BCS Diploma in Business Analysis
 - Data Analysis Diploma
 
