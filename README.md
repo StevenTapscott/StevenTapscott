@@ -112,7 +112,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ## 📫 Contact
 
 - LinkedIn: To be added
-- Tableau Public: To be added
+- Tableau Public: (https://public.tableau.com/app/profile/steven.tapscott/vizzes)
 - Kaggle: (https://www.kaggle.com/steventapscott) 
 - Credly: (https://www.credly.com/users/steven-tapscott)
 
