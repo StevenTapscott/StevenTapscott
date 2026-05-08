@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Steven</h1>
+<h1 align="center">Hi, I'm Steven!</h1>
 <h2 align="center">Data Analysis | Data Science | Database Administration</h2>
 
 ---
