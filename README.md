@@ -69,7 +69,8 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ### 🐍 Python/Data Science Projects
 
-- To be added
+- Profitable App Profiles for the App Store & Google Play (https://github.com/StevenTapscott/DATASCIENCE_P2_Profitable-app-profiles_B)
+- Data Science Tools & Skills Analysis (Kaggle Survey) (https://github.com/StevenTapscott/DATASCIENCE_P1_Kaggle-Survey-Analysis_B)
 
 ### 📊 Power BI Projects
 
