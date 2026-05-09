@@ -67,7 +67,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 - Exploring Squirrel Census Data (https://github.com/StevenTapscott/SQL_P4_Squirrel-Census_B)
 - CIA World Factbook Analysis (https://github.com/StevenTapscott/SQL_P3_CIA_Factbook_Analysis_B)
-- 
+  
 ### 🐍 Python/Data Science Projects
 
 - Profitable App Profiles for the App Store & Google Play (https://github.com/StevenTapscott/DATASCIENCE_P2_Profitable-app-profiles_B)
@@ -75,15 +75,16 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ### 📊 Power BI Projects
 
-- To be added
+- Sales Input & Reporting System (https://github.com/StevenTapscott/POWERBI_P1_Datamodelling_B)
+- Global Development Analysis (https://github.com/StevenTapscott/POWERBI_P2_GDP-Life-Expectancy_B)
 
 ### 📈 Tableau Projects
 
-- To be added
+- Course Participation, Engagement & Completion Dashboard (https://github.com/StevenTapscott/TABLEAU_P1_DataPrep_B)
 
 ### 📊 Excel Projects
 
-- To be added
+- Global Superstore Sales Performance Dashboard (https://github.com/StevenTapscott/EXCEL_P1_Superstore-Dashboard_I)
 
 ### Operating Systems
 <p align="left">
