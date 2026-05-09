@@ -65,8 +65,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ### 🗄️ SQL Projects
 
-- To be added
-
+- Exploring Squirrel Census Data (https://github.com/StevenTapscott/SQL_P4_Squirrel-Census_B)
+- CIA World Factbook Analysis (https://github.com/StevenTapscott/SQL_P3_CIA_Factbook_Analysis_B)
+- 
 ### 🐍 Python/Data Science Projects
 
 - Profitable App Profiles for the App Store & Google Play (https://github.com/StevenTapscott/DATASCIENCE_P2_Profitable-app-profiles_B)
