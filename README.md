@@ -4,8 +4,11 @@
 ---
 
 
+<div align="center">
+
 ## 🔗 [View My Portfolio](https://github.com/StevenTapscott?tab=repositories)
 
+</div>
 I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualising results to support data-driven decision-making. I specialise in SQL, Python, Power BI, Tableau, Excel and data visualisation.
 
 
