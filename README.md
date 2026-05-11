@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<a href="https://github.com/StevenTapscott"><h2>View My Portfolio</h2></a>
+<a href="https://github.com/StevenTapscott?tab=repositories"><h2>View My Portfolio</h2></a>
 </div>
 
 I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualising results to support data-driven decision-making. I specialise in SQL, Python, Power BI, Tableau, Excel and data visualisation.
