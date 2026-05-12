@@ -14,7 +14,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Programming Languages
 <p align="left">
@@ -62,28 +62,28 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🗄️ SQL Projects
+###  SQL Projects
 
 - Exploring Squirrel Census Data (https://github.com/StevenTapscott/SQL_P4_Squirrel-Census_B)
 - CIA World Factbook Analysis (https://github.com/StevenTapscott/SQL_P3_CIA_Factbook_Analysis_B)
   
-### 🐍 Python/Data Science Projects
+###  Python/Data Science Projects
 
 - Profitable App Profiles for the App Store & Google Play (https://github.com/StevenTapscott/DATASCIENCE_P2_Profitable-app-profiles_B)
 - Data Science Tools & Skills Analysis (Kaggle Survey) (https://github.com/StevenTapscott/DATASCIENCE_P1_Kaggle-Survey-Analysis_B)
 
-### 📊 Power BI Projects
+###  Power BI Projects
 
 - Sales Input & Reporting System (https://github.com/StevenTapscott/POWERBI_P1_Datamodelling_B)
 - Global Development Analysis (https://github.com/StevenTapscott/POWERBI_P2_GDP-Life-Expectancy_B)
 
-### 📈 Tableau Projects
+###  Tableau Projects
 
 - Course Participation, Engagement & Completion Dashboard (https://github.com/StevenTapscott/TABLEAU_P1_DataPrep_B)
 
-### 📊 Excel Projects
+###  Excel Projects
 
 - Global Superstore Sales Performance Dashboard (https://github.com/StevenTapscott/EXCEL_P1_Superstore-Dashboard_I)
 
@@ -96,7 +96,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - CompTIA Data+ DA0-002
 - BCS Diploma in Business Analysis
@@ -104,7 +104,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
 </p>
@@ -113,7 +113,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Username here&theme=default" alt="GitHub Streak" width="40%">
 </div>
 
-## 📫 Contact
+##  Contact
 
 - LinkedIn: (https://www.linkedin.com/in/steven-tapscott)
 - Tableau Public: (https://public.tableau.com/app/profile/steven.tapscott/vizzes)
