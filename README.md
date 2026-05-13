@@ -101,7 +101,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 <table>
   <tr>
     <td align="center">
-        <h2 align="center">CompTIA Data+ ce</h2>
+        <h2 align="center">CompTIA Data+ DA0-002</h2>
         <a href="https://www.credly.com/users/steven-tapscott/badges#credly">
         <img 
             src="https://images.credly.com/size/340x340/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" 
