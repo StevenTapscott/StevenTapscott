@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## 🔗 [View My Portfolio](https://github.com/StevenTapscott?tab=repositories)
+##  [View My Portfolio](https://github.com/StevenTapscott?tab=repositories)
 
 </div>
 I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualising results to support data-driven decision-making. I specialise in SQL, Python, Power BI, Tableau, Excel and data visualisation.
@@ -98,9 +98,40 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ##  Certifications
 
-- CompTIA Data+ DA0-002
-- BCS Diploma in Business Analysis
-- Data Analysis Diploma
+<table>
+  <tr>
+    <td align="center">
+        <h2 align="center">CompTIA Data+ ce</h2>
+        <a href="https://www.credly.com/users/steven-tapscott/badges#credly">
+        <img 
+            src="https://images.credly.com/size/340x340/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob" 
+            alt="CompTIA Data+ ce" 
+            width="250"
+        />
+        </a>
+    </td>
+    <td align="center">
+        <h2 align="center">Data Foundations Analyst</h2>
+        <a href="https://www.credly.com/users/steven-tapscott/badges#credly">
+        <img 
+            src="https://images.credly.com/size/340x340/images/6440eb9b-4262-4e25-a915-8dfd662bf39e/blob" 
+            alt="Data Foundations Analyst" 
+            width="250"
+        />
+        </a>
+    </td>
+    <td align="center">
+        <h2 align="center">BCS Business Analysis Foundation</h2>
+        <a href="https://www.credly.com/users/steven-tapscott/badges#credly">
+        <img 
+            src="https://images.credly.com/size/340x340/images/915addf1-19b1-4ccb-af08-5f1b785a5140/image.png" 
+            alt="BCS Business Analysis Foundation" 
+            width="250"
+        />
+        </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
