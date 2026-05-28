@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Steven!</h1>
-<h2 align="center">Data Analysis | Data Science | Database Administration</h2>
+<h2 align="center">Data Analysis | BI Analysis | Data Science | Database Engineering</h2>
 
 ---
 
@@ -66,8 +66,12 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ###  SQL Projects
 
-- Exploring Squirrel Census Data (https://github.com/StevenTapscott/SQL_P4_Squirrel-Census_B)
-- CIA World Factbook Analysis (https://github.com/StevenTapscott/SQL_P3_CIA_Factbook_Analysis_B)
+- Creating a Premier League Database (https://github.com/StevenTapscott/SQL_Premier-League-Database-Project)
+- Exploring Squirrel Census Data (https://github.com/StevenTapscott/SQL-Squirrel-Census-Analysis)
+- CIA World Factbook Analysis (https://github.com/StevenTapscott/SQL-CIA_Factbook_Analysis)
+- Crunchbase Analysis (https://github.com/StevenTapscott/SQL-Crunchbase-Analysis)
+- Kickstarter projects (https://github.com/StevenTapscott/SQL-Kickstarter-Analysis)
+- CRM System (https://github.com/StevenTapscott/SQL-Basic-CRM-System)
   
 ###  Python/Data Science Projects
 
