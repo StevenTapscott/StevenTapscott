@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Steven!</h1>
-<h2 align="center">Data Analysis | BI Analysis | Data Science | Database Engineering</h2>
+<h2 align="center">Data Analysis | Finance | BI Analysis | Data Science | Database Engineering | MI | BI Architect </h2>
 
 ---
 
