@@ -80,16 +80,21 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ###  Power BI Projects
 
-- Sales Input & Reporting System (https://github.com/StevenTapscott/POWERBI_P1_Datamodelling_B)
-- Global Development Analysis (https://github.com/StevenTapscott/POWERBI_P2_GDP-Life-Expectancy_B)
+- Predictive Sales Forecasting (https://github.com/StevenTapscott/Predictive-Sales-Forecasting-Dashboard-with-BI)
+- HR Attrition & Workforce analysis (https://github.com/StevenTapscott/HR-Attrition-Workforce-Analysis-BI)
+- Customer RFM analysis (https://github.com/StevenTapscott/BI-Customer-Segmentation-RFM-Analysis)
+- Udemy Course Performance analysis (https://github.com/StevenTapscott/BI-Udemy-Course-Performance-Analysis)
+- Sales Input & Reporting System (https://github.com/StevenTapscott/BI-Sales-Input-Reporting-System)
+- Global Development Analysis (https://github.com/StevenTapscott/BI-GDP-Global-Development-Analysis)
 
 ###  Tableau Projects
 
-- Course Participation, Engagement & Completion Dashboard (https://github.com/StevenTapscott/TABLEAU_P1_DataPrep_B)
+- Course Participation, Engagement & Completion Dashboard (https://github.com/StevenTapscott/Tableau-Data-Prep)
 
 ###  Excel Projects
 
-- Global Superstore Sales Performance Dashboard (https://github.com/StevenTapscott/EXCEL_P1_Superstore-Dashboard_I)
+- Global Superstore Sales Performance Dashboard (https://github.com/StevenTapscott/Excel-Superstore-Sales-Performance-Dashboard)
+- Excel cleaning with Power Query (https://github.com/StevenTapscott/Data-Cleaning-Transformation-Pipeline)
 
 ### Operating Systems
 <p align="left">
@@ -155,7 +160,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 - Kaggle: (https://www.kaggle.com/steventapscott) 
 - Credly: (https://www.credly.com/users/steven-tapscott)
 
-<p align="center"><strong>Thanks for visiting!</strong></p>
+<h1 align="center"><strong>Thanks for visiting!</strong></h1>
 
 <!--
 **StevenTapscott/StevenTapscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
