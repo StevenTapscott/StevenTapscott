@@ -33,7 +33,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Apps"/>
 <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Automate"/>
 <img src="https://img.shields.io/badge/Dataverse-107C41?style=for-the-badge&logo=microsoft&logoColor=white" alt="Dataverse"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Tableau-1F4E79?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
 ### SQL
