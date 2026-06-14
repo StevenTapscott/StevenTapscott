@@ -105,6 +105,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 - Global Superstore Sales Performance Dashboard (https://github.com/StevenTapscott/Excel-Superstore-Sales-Performance-Dashboard)
 - Excel cleaning with Power Query (https://github.com/StevenTapscott/Data-Cleaning-Transformation-Pipeline)
 
+### Power Apps, Power Automate & Dataverse
+- Basic Leave Request Management System (https://github.com/StevenTapscott/Basic-Leave-Request-Management-System/tree/main)
+
 ### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
