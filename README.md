@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Steven!</h1>
-<h2 align="center">Data Analyst | Business Intelligence | SQL | Power BI | Python </h2>
+<h2 align="center">Data Analyst | Business Intelligence | Data Science | SQL | Power BI | Python </h2>
 
 ---
 
