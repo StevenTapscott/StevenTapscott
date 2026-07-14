@@ -78,6 +78,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   
 ###  Python/Data Science Projects
 
+- eBay Car Sales Analysis (https://github.com/StevenTapscott/Python-Notebooks-eBay-Car-Sales)
 - COVID-19 Exploration with G8 Countries (https://github.com/StevenTapscott/Python-Notebooks-COVID-19-Data-Exploration-)
 - Profitable App Profiles for the App Store & Google Play (https://github.com/StevenTapscott/Python-Notebooks-Profitable-App-Profiles)
 - Data Science Tools & Skills Analysis (Kaggle Survey) (https://github.com/StevenTapscott/Python-Notebooks-Kaggle-Survey-Analysis)
@@ -99,6 +100,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ###  Tableau Projects
 
 - Course Participation, Engagement & Completion Dashboard (https://github.com/StevenTapscott/Tableau-Data-Prep)
+- Business Intelligence Plots (https://github.com/StevenTapscott/Tableau-BI-plots-with-Adventure-Works/tree/main)
 
 ###  Excel Projects
 
@@ -107,6 +109,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ### Power Apps, Power Automate & Dataverse
 - Basic Leave Request Management System (https://github.com/StevenTapscott/Basic-Leave-Request-Management-System/tree/main)
+
+### Misc Events
+- Kaggle AI Agents (https://github.com/StevenTapscott/Kaggle-AI-Agents)
 
 ### Operating Systems
 <p align="left">
