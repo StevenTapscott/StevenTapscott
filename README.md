@@ -101,6 +101,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 - Course Participation, Engagement & Completion Dashboard (https://github.com/StevenTapscott/Tableau-Data-Prep)
 - Business Intelligence Plots (https://github.com/StevenTapscott/Tableau-BI-plots-with-Adventure-Works/tree/main)
+- Customer Acquisition & Subscriber Analytics Dashboard (https://github.com/StevenTapscott/Customer-Acquisition-Subscriber-Analytics-Dashboard-with-Tableau)
+- Patient Risk Healthcare Dashboard (https://github.com/StevenTapscott/Patient-Risk-Dashboard-with-Tableau)
+
 
 ###  Excel Projects
 
