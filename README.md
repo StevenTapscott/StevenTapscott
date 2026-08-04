@@ -78,6 +78,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   
 ###  Python/Data Science Projects
 
+- Fandango Movie Ratings (https://github.com/StevenTapscott/Python-Notebooks-Fandango-Movie-Ratings)
 - eBay Car Sales Analysis (https://github.com/StevenTapscott/Python-Notebooks-eBay-Car-Sales)
 - COVID-19 Exploration with G8 Countries (https://github.com/StevenTapscott/Python-Notebooks-COVID-19-Data-Exploration-)
 - Profitable App Profiles for the App Store & Google Play (https://github.com/StevenTapscott/Python-Notebooks-Profitable-App-Profiles)
