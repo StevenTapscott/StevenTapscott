@@ -69,12 +69,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ###  SQL Projects
 
+- Customers and Products Analysis (https://github.com/StevenTapscott/Customer-and-Products-Analysis-using-SQL-and-BI/tree/main)
 - Creating a Premier League Database (https://github.com/StevenTapscott/SQL_Premier-League-Database-Project)
-- Exploring Squirrel Census Data (https://github.com/StevenTapscott/SQL-Squirrel-Census-Analysis)
 - CIA World Factbook Analysis (https://github.com/StevenTapscott/SQL-CIA_Factbook_Analysis)
-- Crunchbase Analysis (https://github.com/StevenTapscott/SQL-Crunchbase-Analysis)
-- Kickstarter projects (https://github.com/StevenTapscott/SQL-Kickstarter-Analysis)
-- CRM System (https://github.com/StevenTapscott/SQL-Basic-CRM-System)
   
 ###  Python/Data Science Projects
 
