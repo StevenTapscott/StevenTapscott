@@ -91,13 +91,10 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 - Predictive Sales Forecasting (https://github.com/StevenTapscott/Predictive-Sales-Forecasting-Dashboard-with-BI)
 - HR Attrition & Workforce analysis (https://github.com/StevenTapscott/HR-Attrition-Workforce-Analysis-BI)
 - Customer RFM analysis (https://github.com/StevenTapscott/BI-Customer-Segmentation-RFM-Analysis)
-- Udemy Course Performance analysis (https://github.com/StevenTapscott/BI-Udemy-Course-Performance-Analysis)
-- Sales Input & Reporting System (https://github.com/StevenTapscott/BI-Sales-Input-Reporting-System)
-- Global Development Analysis (https://github.com/StevenTapscott/BI-GDP-Global-Development-Analysis)
+
 
 ###  Tableau Projects
 
-- Course Participation, Engagement & Completion Dashboard (https://github.com/StevenTapscott/Tableau-Data-Prep)
 - Business Intelligence Plots (https://github.com/StevenTapscott/Tableau-BI-plots-with-Adventure-Works/tree/main)
 - Customer Acquisition & Subscriber Analytics Dashboard (https://github.com/StevenTapscott/Customer-Acquisition-Subscriber-Analytics-Dashboard-with-Tableau)
 - Patient Risk Healthcare Dashboard (https://github.com/StevenTapscott/Patient-Risk-Dashboard-with-Tableau)
@@ -105,7 +102,6 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ###  Excel Projects
 
-- Global Superstore Sales Performance Dashboard (https://github.com/StevenTapscott/Excel-Superstore-Sales-Performance-Dashboard)
 - Excel cleaning with Power Query (https://github.com/StevenTapscott/Data-Cleaning-Transformation-Pipeline)
 
 ### Power Apps, Power Automate & Dataverse
