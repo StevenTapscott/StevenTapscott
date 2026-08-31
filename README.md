@@ -75,16 +75,11 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   
 ###  Python/Data Science Projects
 
-- Fandango Movie Ratings (https://github.com/StevenTapscott/Python-Notebooks-Fandango-Movie-Ratings)
+- House Price Prediction (https://github.com/StevenTapscott/Python-Notebooks-House-Price-Predictor-with-Streamlit/tree/main)
 - eBay Car Sales Analysis (https://github.com/StevenTapscott/Python-Notebooks-eBay-Car-Sales)
 - COVID-19 Exploration with G8 Countries (https://github.com/StevenTapscott/Python-Notebooks-COVID-19-Data-Exploration-)
 - Profitable App Profiles for the App Store & Google Play (https://github.com/StevenTapscott/Python-Notebooks-Profitable-App-Profiles)
 - Data Science Tools & Skills Analysis (Kaggle Survey) (https://github.com/StevenTapscott/Python-Notebooks-Kaggle-Survey-Analysis)
-- Stock Market Prediction Analysis (https://github.com/StevenTapscott/Python-Notebook-Stock-Market-Analysis_Prediction)
-- Clinical Trials Analysis (https://github.com/StevenTapscott/Python-Notebooks-Clinical-Trial-Analysis)
-- River Toxin Analysis (https://github.com/StevenTapscott/Python-Notebook-River-Toxin-Analysis)
-- EDA Global Superstore (https://github.com/StevenTapscott/Python-Notebooks-EDA-Analysis)
-- Student Scores Analysis (https://github.com/StevenTapscott/Python-Notebooks-Student-Scores-Analysis)
 
 ###  Power BI Projects
 
