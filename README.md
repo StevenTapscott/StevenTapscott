@@ -65,7 +65,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ---
 
-##  Featured Projects
+##  Featured Flagship Projects (Will update overtime once more better/prominent projects are completed)
 
 ###  SQL Projects
 
