@@ -106,7 +106,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 - **Kaggle AI Agents** (https://github.com/StevenTapscott/Kaggle-AI-Agents)
 
 ---
-## Upcoming projects 
+## Current & Upcoming projects 
 - **AI Sentiment Analysis project** | AI Engineering focused |
 - **IT Helpdesk & Support Ticket Management** | Power Apps, Power Automate, Power BI | End-to-end business application & reporting solution |
 - **Building a local UK Crime Database** | PostgreSQL, Python | Relational database design, crime-data ETL, database administration, user management and analytical querying | 
