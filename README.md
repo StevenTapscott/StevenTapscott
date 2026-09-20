@@ -69,22 +69,22 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ###  SQL Projects
 
-- Customers and Products Analysis (https://github.com/StevenTapscott/Customer-and-Products-Analysis-using-SQL-and-BI/tree/main)
-- Creating a Premier League Database (https://github.com/StevenTapscott/SQL_Premier-League-Database-Project)
-- CIA World Factbook Analysis (https://github.com/StevenTapscott/SQL-CIA_Factbook_Analysis)
+- **Customers and Products Analysis** (https://github.com/StevenTapscott/Customer-and-Products-Analysis-using-SQL-and-BI/tree/main)
+- **Creating a Premier League Database** (https://github.com/StevenTapscott/SQL_Premier-League-Database-Project)
+- **CIA World Factbook Analysis** (https://github.com/StevenTapscott/SQL-CIA_Factbook_Analysis)
   
 ###  Python/Data Science Projects
 
-- House Price Prediction (https://github.com/StevenTapscott/Python-Notebooks-House-Price-Predictor-with-Streamlit/tree/main)
-- eBay Car Sales Analysis (https://github.com/StevenTapscott/Python-Notebooks-eBay-Car-Sales)
-- COVID-19 Exploration with G8 Countries (https://github.com/StevenTapscott/Python-Notebooks-COVID-19-Data-Exploration-)
-- Profitable App Profiles for the App Store & Google Play (https://github.com/StevenTapscott/Python-Notebooks-Profitable-App-Profiles)
-- Data Science Tools & Skills Analysis (Kaggle Survey) (https://github.com/StevenTapscott/Python-Notebooks-Kaggle-Survey-Analysis)
+- **House Price Prediction** (https://github.com/StevenTapscott/Python-Notebooks-House-Price-Predictor-with-Streamlit/tree/main)
+- **eBay Car Sales Analysis** (https://github.com/StevenTapscott/Python-Notebooks-eBay-Car-Sales)
+- **COVID-19 Exploration with G8 Countries** (https://github.com/StevenTapscott/Python-Notebooks-COVID-19-Data-Exploration-)
+- **Profitable App Profiles for the App Store & Google Play** (https://github.com/StevenTapscott/Python-Notebooks-Profitable-App-Profiles)
+- **Data Science Tools & Skills Analysis** (Kaggle Survey) (https://github.com/StevenTapscott/Python-Notebooks-Kaggle-Survey-Analysis)
 
 ###  Power BI Projects
 
-- Predictive Sales Forecasting (https://github.com/StevenTapscott/Predictive-Sales-Forecasting-Dashboard-with-BI)
-- HR Attrition & Workforce analysis (https://github.com/StevenTapscott/HR-Attrition-Workforce-Analysis-BI)
+- **Predictive Sales Forecasting** (https://github.com/StevenTapscott/Predictive-Sales-Forecasting-Dashboard-with-BI)
+- **HR Attrition & Workforce analysis** (https://github.com/StevenTapscott/HR-Attrition-Workforce-Analysis-BI)
 - **Customer RFM analysis** (https://github.com/StevenTapscott/BI-Customer-Segmentation-RFM-Analysis)
 
 
