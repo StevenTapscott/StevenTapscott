@@ -85,25 +85,34 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 - Predictive Sales Forecasting (https://github.com/StevenTapscott/Predictive-Sales-Forecasting-Dashboard-with-BI)
 - HR Attrition & Workforce analysis (https://github.com/StevenTapscott/HR-Attrition-Workforce-Analysis-BI)
-- Customer RFM analysis (https://github.com/StevenTapscott/BI-Customer-Segmentation-RFM-Analysis)
+- **Customer RFM analysis** (https://github.com/StevenTapscott/BI-Customer-Segmentation-RFM-Analysis)
 
 
 ###  Tableau Projects
 
-- Business Intelligence Plots (https://github.com/StevenTapscott/Tableau-BI-plots-with-Adventure-Works/tree/main)
-- Customer Acquisition & Subscriber Analytics Dashboard (https://github.com/StevenTapscott/Customer-Acquisition-Subscriber-Analytics-Dashboard-with-Tableau)
-- Patient Risk Healthcare Dashboard (https://github.com/StevenTapscott/Patient-Risk-Dashboard-with-Tableau)
+- **Business Intelligence Plots** (https://github.com/StevenTapscott/Tableau-BI-plots-with-Adventure-Works/tree/main)
+- **Customer Acquisition & Subscriber Analytics Dashboard** (https://github.com/StevenTapscott/Customer-Acquisition-Subscriber-Analytics-Dashboard-with-Tableau)
+- **Patient Risk Healthcare Dashboard** (https://github.com/StevenTapscott/Patient-Risk-Dashboard-with-Tableau)
 
 
 ###  Excel Projects
 
-- Excel cleaning with Power Query (https://github.com/StevenTapscott/Data-Cleaning-Transformation-Pipeline)
+- **Excel cleaning with Power Query** (https://github.com/StevenTapscott/Data-Cleaning-Transformation-Pipeline)
 
 ### Power Apps, Power Automate & Dataverse
-- Basic Leave Request Management System (https://github.com/StevenTapscott/Basic-Leave-Request-Management-System/tree/main)
+- **Basic Leave Request Management System** (https://github.com/StevenTapscott/Basic-Leave-Request-Management-System/tree/main)
 
 ### Misc Events
-- Kaggle AI Agents (https://github.com/StevenTapscott/Kaggle-AI-Agents)
+- **Kaggle AI Agents** (https://github.com/StevenTapscott/Kaggle-AI-Agents)
+
+---
+## Upcoming projects 
+- **AI Sentiment Analysis project** | AI Engineering focused |
+- **IT Helpdesk & Support Ticket Management** | Power Apps, Power Automate, Power BI | End-to-end business application & reporting solution |
+- **Building a local UK Crime Database** | PostgreSQL, Python | Relational database design, crime-data ETL, database administration, user management and analytical querying | 
+- **NASDAQ Stock Market Analysis** | Python, Pandas, NumPy, Matplotlib | NASDAQ market analysis, financial data processing, stock performance, returns, volatility and market trend analysis |
+- **Customer Lifetime Value Analysis** | Power BI, Power Query, DAX | CLV modelling, customer segmentation & cohort analysis |
+- **Customer Churn Analysis Tableau** | Customer segmentation, churn analysis, risk factors and interactive BI dashboards | 
 
 ### Operating Systems
 <p align="left">
