@@ -179,6 +179,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 - Tableau Public: (https://public.tableau.com/app/profile/steven.tapscott/vizzes)
 - Kaggle: (https://www.kaggle.com/steventapscott) 
 - Credly: (https://www.credly.com/users/steven-tapscott)
+- Streamlit (https://share.streamlit.io/user/steventapscott)
 
 <h1 align="center"><strong>Thanks for visiting!</strong></h1>
 
