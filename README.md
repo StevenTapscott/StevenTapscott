@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Steven!</h1>
-<h2 align="center">Data Analyst | Business Intelligence | Data Science | SQL | Power BI | Python </h2>
+<h2 align="center">Data Analyst | Business Intelligence | Data Science | SQL | Power BI | Python | AI Engineering </h2>
 
 ---
 
@@ -102,12 +102,14 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ### Power Apps, Power Automate & Dataverse
 - **Basic Leave Request Management System** (https://github.com/StevenTapscott/Basic-Leave-Request-Management-System/tree/main)
 
+### AI Engineering 
+- **AI Sentiment Analysis project** (https://github.com/StevenTapscott/IMDB-Sentiment-Analysis)
+
 ### Misc Events
 - **Kaggle AI Agents** (https://github.com/StevenTapscott/Kaggle-AI-Agents)
 
 ---
 ## Current & Upcoming projects 
-- **AI Sentiment Analysis project** | AI Engineering focused |
 - **IT Helpdesk & Support Ticket Management** | Power Apps, Power Automate, Power BI | End-to-end business application & reporting solution |
 - **Building a local UK Crime Database** | PostgreSQL, Python | Relational database design, crime-data ETL, database administration, user management and analytical querying | 
 - **NASDAQ Stock Market Analysis** | Python, Pandas, NumPy, Matplotlib | NASDAQ market analysis, financial data processing, stock performance, returns, volatility and market trend analysis |
